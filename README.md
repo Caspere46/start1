@@ -1,3 +1,3 @@
 # start1
 
-ovo je projekat n1
+ovo je izmena projekta n1
